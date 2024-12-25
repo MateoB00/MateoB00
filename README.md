@@ -10,4 +10,4 @@ I'm a passionate developer focused on web development, 3D animation, and artific
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/mat%C3%A9o-bianco/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mat%C3%A9o-bianco/)
