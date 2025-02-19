@@ -6,7 +6,7 @@ I'm a passionate developer focused on web development, 3D animation, and web3. ð
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB00&layout=compact&theme=radical)
 
 ## ðŸŒ± Currently Learning
-- Next.JS, Deno, Python for Machine Learning and Java
+- Next.JS, Deno, Python for Machine Learning and Rust.
 
 ## Connect with me
 
