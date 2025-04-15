@@ -6,7 +6,7 @@ I'm a passionate developer focused on web development, cloud, and web3. 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB00&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- Next.JS, Deno, Python for Machine Learning and Solidity.
+- Deno, Python, Solidity, Rust.
 
 ## Connect with me
 
