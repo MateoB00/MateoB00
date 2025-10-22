@@ -1,6 +1,6 @@
 ## Hi there, welcome to My GitHub Profile! 👋
 
-I'm a passionate developer focused on web development, cloud, and web3. 🚀
+I'm a passionate developer focused on development, data, devOps, and web3. 🚀
 
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB00&layout=compact&theme=radical)
