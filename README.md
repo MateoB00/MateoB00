@@ -1,12 +1,12 @@
 ## Hi there, welcome to My GitHub Profile! 👋
 
-I'm a passionate developer focused on development, data, devOps, and web3. 🚀
+I'm a passionate developer focused on development, data, web3, and cloud. 🚀
 
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB00&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- Deno, Python, Solidity, Rust.
+- Solidity, Rust.
 
 ## Connect with me
 
