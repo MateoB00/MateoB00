@@ -8,6 +8,10 @@ I'm a passionate developer focused on development, data, web3, and cloud. 🚀
 ## 🌱 Currently Learning
 - Solidity, Rust.
 
+## Currently Working
+- GlowCoins : ![](https://www.glowcoins.com/)
+- Plateforme e-sport 
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mat%C3%A9o-bianco/)
