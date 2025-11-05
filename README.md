@@ -9,7 +9,7 @@ I'm a passionate developer focused on development, data, web3, and cloud. 🚀
 - Solidity, Rust.
 
 ## Currently Working
-- GlowCoins : ![](https://www.glowcoins.com/)
+- GlowCoins : ![GlowCoins](https://www.glowcoins.com/)
 - Plateforme e-sport 
 
 ## Connect with me
