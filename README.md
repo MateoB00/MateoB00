@@ -1,12 +1,6 @@
 ## Hi there, welcome to My GitHub Profile! 👋
 
-I'm a passionate developer focused on development, data, web3, and cloud. 🚀
-
-## 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB00&layout=compact&theme=radical)
-
-## 🌱 Currently Learning
-- Solidity, Rust.
+I'm a passionate developer focused on many thinks like development, AI, IoT, data, cloud, and web3. 🚀
 
 ## Currently Working
 - GlowCoins : [GlowCoins](https://www.glowcoins.com/)
