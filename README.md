@@ -3,7 +3,8 @@
 I'm a passionate developer focused on many thinks like development, AI, IoT, data, cloud, and web3. 🚀
 
 ## Currently Working
-- GlowCoins : [GlowCoins](https://www.glowcoins.com/)
+- TrackGlobalMarket : [TrackGlobalMarket](https://www.trackglobalmarket.com/)
+- AI Agents - Memory
 - Plateforme e-sport 
 
 ## Connect with me
