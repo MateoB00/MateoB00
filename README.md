@@ -31,7 +31,7 @@
 
 ```diff
 +  Location:    Paris, France
-+  Status:      Building & Breaking Things 🔨
++  Status:      Learning & Building Things 
 +  Mission:     Software / Data Engineer 
 ```
 
@@ -48,9 +48,11 @@
 ```terminal
 mbianco@terminal:~$ cat current_projects.txt
 
-[████████████████████░░] ∞% → Aggregator financial data - Track Global Market
-[████████████░░░░░░░░░░] ∞% → AI Agent - Memory  
-[██████████████████░░░░] ∞% → Esport App
+[██████████████████████] ∞ → Aggregator financial data - Track Global Market
+[██████████████████████] ∞ → AI Agent - Memory  
+[██████████████████████] ∞ → Esport App
+
+mbianco@terminal:~$ █
 ```
 
 ---
